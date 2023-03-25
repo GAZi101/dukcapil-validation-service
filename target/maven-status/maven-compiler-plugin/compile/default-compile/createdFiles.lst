@@ -1,0 +1,13 @@
+id/co/gemardy/dukcapilvalidation/dto/response/DukcapilValidationResponse$DukcapilValidationResponseBuilder.class
+id/co/gemardy/dukcapilvalidation/mapper/DukcapilValidationMapper.class
+id/co/gemardy/dukcapilvalidation/controller/DukcapilValidationController.class
+id/co/gemardy/dukcapilvalidation/service/DukcapilValidationService.class
+id/co/gemardy/dukcapilvalidation/DukcapilValidationApplication.class
+id/co/gemardy/dukcapilvalidation/dto/request/DukcapilValidationRequest.class
+id/co/gemardy/dukcapilvalidation/dto/response/BaseResponse$BaseResponseBuilder.class
+id/co/gemardy/dukcapilvalidation/adapter/APIAdapter.class
+id/co/gemardy/dukcapilvalidation/dto/request/DukcapilValidationRequest$DukcapilValidationRequestBuilder.class
+id/co/gemardy/dukcapilvalidation/dto/response/DukcapilValidationResponse.class
+id/co/gemardy/dukcapilvalidation/service/impl/DukcapilValidationServiceImpl.class
+id/co/gemardy/dukcapilvalidation/dto/response/BaseResponse.class
+id/co/gemardy/dukcapilvalidation/mapper/DukcapilValidationMapperImpl.class
